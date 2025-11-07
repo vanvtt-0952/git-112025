@@ -1,2 +1,3 @@
-## second code
-demo 2
+### init readme
+hi
+
